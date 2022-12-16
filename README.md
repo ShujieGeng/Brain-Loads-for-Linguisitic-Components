@@ -13,7 +13,8 @@ Step6: Visualization of Brain Loads :
 	BrainNet Viewer(Xia et al., 2013, http://www.nitrc.org/projects/bnv/)  
 	MRIcroGL(https://github.com/rordenlab/MRIcroGL)  
 Step7: Support Vector Regression  
-Sept8: Associations between Brain loads and reaction time  
+Step8: Associations between Brain loads and reaction time  
+Step9: Validations
 
 Abbreviations:   
 CW-Chinese word;EW-English word;CP-Chinese pinyin  
@@ -40,7 +41,10 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
   S5_3_rsaZ_CW.nii  
   S5_3_rsaZ_EW.nii  
   S5_3_rsaZ_CP.nii  
-  S5_4_BrainLoad_ROI  
+  S5_4_BrainLoad_ROI.xlsx  
+  S9_1_CW_perm.mat  
+  S9_1_EW_perm.mat 
+  S9_1_CP_perm.mat 
 ## CODE :  
   S4_NeuralRDM_gene.m  
   S5_RSA_gene.m  
@@ -57,3 +61,4 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
   figure7.m  
   figure8b.m  
   figureS3.m  
+  figureS3perm_gene.m  
