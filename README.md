@@ -43,7 +43,7 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
 ## CODE :  
   S4_NeuralRDM_gene.m  
   S5_RSA_gene.m  
-  S5_RSA_mining.m
+  S5_RSA_mining.m  
   S7_1_brainload_svr.py  
   S7_2_brainload_bestk.py  
   S8_LMEmodel.m  
