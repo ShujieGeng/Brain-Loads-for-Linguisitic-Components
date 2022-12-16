@@ -50,7 +50,7 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
   S5_RSA_gene.m  
   S5_RSA_mining.m  
   S7_1_brainload_svr.py  
-  S7_2_brainload_bestk.py  
+  S7_2_brainload_svrREF.py  
   S8_LMEmodel.m  
   figure1b.m  
   figure3b.m  
