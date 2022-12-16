@@ -42,6 +42,10 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
   S5_3_rsaZ_EW.nii  
   S5_3_rsaZ_CP.nii  
   S5_4_BrainLoad_ROI.xlsx  
+  S7_1_y_pred.mat  
+  S7_1_y_pred_logo.mat  
+  S7_1_y_pred_pho.mat  
+  S7_1_y_pred_sem.mat  
   S9_1_CW_perm.mat    
   S9_1_EW_perm.mat  
   S9_1_CP_perm.mat 
