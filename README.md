@@ -46,6 +46,9 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
   S7_1_y_pred_logo.mat  
   S7_1_y_pred_pho.mat  
   S7_1_y_pred_sem.mat  
+  S7_2_bestK_rbf.mat  
+  S7_2_rmse_all_rbf.mat  
+  S7_2_rmse_Nminus1_rbf.mat  
   S9_1_CW_perm.mat    
   S9_1_EW_perm.mat  
   S9_1_CP_perm.mat 
