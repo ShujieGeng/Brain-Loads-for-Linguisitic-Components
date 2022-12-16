@@ -42,7 +42,7 @@ Logo-Logo-grapheme;Pho-Phonology;Sem-Semantics
   S5_3_rsaZ_EW.nii  
   S5_3_rsaZ_CP.nii  
   S5_4_BrainLoad_ROI.xlsx  
-  S9_1_CW_perm.mat  
+  S9_1_CW_perm.mat    
   S9_1_EW_perm.mat 
   S9_1_CP_perm.mat 
 ## CODE :  
